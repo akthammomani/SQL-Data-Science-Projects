@@ -14,6 +14,12 @@
    * We used subqueries in From Clause.
    * We used nested and correlated subqueries, and common table expressions to extract, match, and organize large amounts of data.
    * We used ORDER BY, GROUB BY, WHERE, HAVING. 
+   
+#### Some insights about our database:
+
+![Cost per facility](https://user-images.githubusercontent.com/67468718/103147177-8bc1a900-4707-11eb-8074-7c4c8abb1b12.JPG)
+
+![Maintenance cost](https://user-images.githubusercontent.com/67468718/103147184-95e3a780-4707-11eb-8f63-ae59c54f35d8.JPG)
 
     
 
