@@ -19,7 +19,7 @@
    
    ✔ We used nested and correlated subqueries to extract, match, and organize large amounts of data.
    
-   ✔ We used ORDER BY, GROUB BY, WHERE and HAVING to filter and manipulate the Data.
+   ✔ We used ORDER BY, GROUB BY, WHERE and HAVING Clauses to filter and manipulate the Data.
    
 ### 🌟Some insights from the database:
 
