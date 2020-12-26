@@ -5,7 +5,7 @@
    * The "Facilities" Table, and
    * The "Members" Table.
    
-![DB](https://user-images.githubusercontent.com/67468718/103150977-79a73100-472e-11eb-9daa-4f5637f1c339.JPG)
+  ![DB](https://user-images.githubusercontent.com/67468718/103150977-79a73100-472e-11eb-9daa-4f5637f1c339.JPG)
 
    
 ### In this case study, there are 13 Questions we need to solve using: 
