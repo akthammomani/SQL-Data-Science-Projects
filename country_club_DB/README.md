@@ -15,7 +15,7 @@
    * We used nested and correlated subqueries, and common table expressions to extract, match, and organize large amounts of data.
    * We used ORDER BY, GROUB BY, WHERE and HAVING to filter and manipulate the Data.
    
-#### Some insights about our database:
+#### Some insights from the database:
 
 ![Cost per facility](https://user-images.githubusercontent.com/67468718/103147177-8bc1a900-4707-11eb-8074-7c4c8abb1b12.JPG)
 
