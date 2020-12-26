@@ -13,7 +13,9 @@
    ✔ We used CASE Statements for categorizing, aggregating and calculating information.
    
    ✔ We used subqueries in FROM Clause.
+   
    ✔ We used nested and correlated subqueries, and common table expressions to extract, match, and organize large amounts of data.
+   
    ✔ We used ORDER BY, GROUB BY, WHERE and HAVING to filter and manipulate the Data.
    
 ### Some insights from the database:
