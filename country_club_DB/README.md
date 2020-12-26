@@ -1,4 +1,4 @@
-🌟 ## Case Study - Country Club:
+## 🌟Case Study - Country Club:
 
 ### Country Club DataBase, contains 3 Tables: 
    * The "Bookings" Table,
