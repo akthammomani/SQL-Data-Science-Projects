@@ -9,8 +9,8 @@
 
    
 ### 🌟In this case study, there are 13 Questions we need to solve using: 
-   * Questions 1-9 using **PHPMyAdmin interface (MySQL)** 👉"SQLTasks Tier 2_PHPMyAdmin.sql"
-   * Questions 10-13 using **Python and SQLite** 👉 "country_club_python_sqlite_v1.ipynb" where we used sqlalchemy & SQLite to manipulate and transform the Data.
+   * Questions 1-9 using **PHPMyAdmin interface (MySQL)** 👉 ***"SQLTasks Tier 2_PHPMyAdmin.sql"***
+   * Questions 10-13 using **Python and SQLite** 👉 ***"country_club_python_sqlite_v1.ipynb"*** where we used sqlalchemy & SQLite to manipulate and transform the Data.
    
 ### 🌟Throughout this case study we've covered a wide variety of methods for transforming, manipulating, and calculating data to answer a wide variety of questions in SQL: 
    ✔ We used CASE Statements for categorizing, aggregating and calculating information.
