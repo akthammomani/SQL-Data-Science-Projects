@@ -5,9 +5,7 @@
    * The "Facilities" Table, and
    * The "Members" Table.
    
-        ![DB_1](https://user-images.githubusercontent.com/67468718/103169002-0d3f3700-47ed-11eb-8c9f-b4100d0c1f07.JPG)
-
-   
+       
 ### 🌟In this case study, there are 13 Questions we need to solve using: 
    * Questions 1-9 using **PHPMyAdmin interface (MySQL)** 👉 ***"SQLTasks Tier 2_PHPMyAdmin.sql"***
    * Questions 10-13 using **Python and SQLite** 👉 ***"country_club_python_sqlite_v3.ipynb"*** where we used sqlalchemy & SQLite to manipulate and transform the Data.
@@ -26,6 +24,12 @@
 ![Cost per facility](https://user-images.githubusercontent.com/67468718/103147177-8bc1a900-4707-11eb-8074-7c4c8abb1b12.JPG)
 
 ![Maintenance cost](https://user-images.githubusercontent.com/67468718/103147184-95e3a780-4707-11eb-8f63-ae59c54f35d8.JPG)
+
+![1](https://user-images.githubusercontent.com/67468718/103179133-ac8c1a80-483d-11eb-81f3-454fa6091166.JPG)
+
+![2](https://user-images.githubusercontent.com/67468718/103179139-b57cec00-483d-11eb-81fe-90667e0ebc51.JPG)
+
+![3](https://user-images.githubusercontent.com/67468718/103179143-bca3fa00-483d-11eb-8c9f-6eab8ec6e212.JPG)
 
     
 
