@@ -25,7 +25,7 @@
 
 ![Maintenance cost](https://user-images.githubusercontent.com/67468718/103147184-95e3a780-4707-11eb-8f63-ae59c54f35d8.JPG)
 
-![1](https://user-images.githubusercontent.com/67468718/103179133-ac8c1a80-483d-11eb-81f3-454fa6091166.JPG)
+   ![1](https://user-images.githubusercontent.com/67468718/103179133-ac8c1a80-483d-11eb-81f3-454fa6091166.JPG)
 
 ![2](https://user-images.githubusercontent.com/67468718/103179139-b57cec00-483d-11eb-81fe-90667e0ebc51.JPG)
 
