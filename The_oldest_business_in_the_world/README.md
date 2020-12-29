@@ -12,7 +12,7 @@ BusinessFinancing.co.uk researched the oldest company that is still in business 
 The database contains three tables:
 
 <p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103272277-49030980-4971-11eb-8324-f47e4ce14bd3.JPGg">
+  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103272449-bfa00700-4971-11eb-9966-6bb559bfc9c3.JPG">
 </p>
 
 Let's begin by looking at the range of the founding years throughout the world.
