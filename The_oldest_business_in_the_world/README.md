@@ -1,7 +1,7 @@
 # The oldest business in the world
 
 <p align="center">
-  <img width="400" height="500" src="https://user-images.githubusercontent.com/67468718/103272271-46a0af80-4971-11eb-9f96-f6912146861c.jpg">
+  <img width="350" height="500" src="https://user-images.githubusercontent.com/67468718/103272271-46a0af80-4971-11eb-9f96-f6912146861c.jpg">
 </p>
 
 
