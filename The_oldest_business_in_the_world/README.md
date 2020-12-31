@@ -15,6 +15,6 @@ The database contains three tables:
   <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103272449-bfa00700-4971-11eb-9966-6bb559bfc9c3.JPG">
 </p>
 
-Let's begin by looking at the range of the founding years throughout the world.
+Let's begin by looking at the range of the founding years throughout the world using PostgreSQL!
 
 
