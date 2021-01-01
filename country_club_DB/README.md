@@ -6,7 +6,7 @@
    * The "Members" Table.
    
        
-### ✰ In this case study, there are 13 Questions we need to solve using: 
+### ✰ In this case study, there are 13 Questions we need to find answers to using: 
    * Questions 1-9 using **PHPMyAdmin interface (MySQL)** 👉 ***"SQLTasks Tier 2_PHPMyAdmin.sql"***
    * Questions 10-13 using **Python and SQLite** 👉 ***"country_club_python_sqlite_v3.ipynb"*** where we used sqlalchemy & SQLite to manipulate and transform the Data.
    
